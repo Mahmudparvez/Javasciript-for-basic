@@ -1,0 +1,6 @@
+console.log('HELLO WORLD')
+console.log('Bangladesh is very Promotive country')
+console.log('45')
+console.log('my fav no: 60243')
+console.log(9 + 9)
+console.log('9' + 9)
